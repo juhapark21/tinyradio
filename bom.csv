@@ -1,0 +1,14 @@
+﻿Index,MPN,Manufacturer,Package,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link
+1,CR2032-BS-6-1,QIJEY,-,Battery Holder Coin CR2032 Cell SMD,yes,5,5,5,0.1380,0.69,https://www.lcsc.com/product-detail/C70377.html
+2,KF106M025C05RR0VH2FP0,Chengx,"Through Hole,D4xL5mm","10uF 25V Aluminum Electrolytic Capacitors Through Hole,D4xL5mm 1000hrs@105℃",yes,50,50,50,0.0099,0.50,https://www.lcsc.com/product-detail/C43846.html
+3,1206B104K500CT,Walsin,1206,100nF ±10% 50V Ceramic Capacitor X7R 1206,yes,10,10,10,0.0135,0.14,https://www.lcsc.com/product-detail/C93194.html
+4,TCC1206COG101J101DT,CCTC,1206,100pF ±5% 100V Ceramic Capacitor C0G 1206,yes,50,50,50,0.0116,0.58,https://www.lcsc.com/product-detail/C5448997.html
+5,PJ-320B,BOOMELE(Boom Precision Elec),SMD,3.5mm Headphone Jack 200mA 30V Surface Mount,yes,10,10,10,0.0627,0.63,https://www.lcsc.com/product-detail/C18594.html
+6,1206W4F4701T5E,UNI-ROYAL,1206,4.7kΩ ±1% 250mW 1206 Thick Film Resistor,yes,100,100,100,0.0060,0.60,https://www.lcsc.com/product-detail/C17936.html
+7,EC11E1534441,ALPSALPINE,Through Hole,10mA -40℃~+85℃ Through Hole DIP Switches/SIP Switches RoHS,yes,5,1,1,0.7406,3.70,https://www.lcsc.com/product-detail/C2687287.html
+8,RK09K11300DR,ALPSALPINE,Through Hole,"±20% 50mW 10kΩ Through Hole Rotary Potentiometers, Rheostats RoHS",yes,5,1,1,0.7849,3.92,https://www.lcsc.com/product-detail/C3020615.html
+9,LQW18ANR27J00D,muRata,0603,110mA 270nH ±5% 3.4Ω Unshielded Inductor 0603 Fixed Inductors RoHS,yes,20,20,20,0.0381,0.76,https://www.lcsc.com/product-detail/C98093.html
+10,EC12D1524403,ALPSALPINE,Through Hole,Through Hole Encoders RoHS,yes,5,1,1,0.9614,4.81,https://www.lcsc.com/product-detail/C112349.html
+11,102010428,Seeed Studio,SMD,"Seeed Studio XIAO RP2040 Microcontroller, with Dual-Core ARM Cortex M0+ Processor",yes,1,1,1,9.99,9.99,https://a.co/d/0feymYab
+12,RDA5807,RDA Microelectronics,SMD,4pcs FM Stereo Radio Module RDA5807M Wireless Module RRD-102 V2.0 ,yes,4,4,1,2.25,8.99,https://a.co/d/0geL9m36
+Total price,,,,,,,,,,35.31,
