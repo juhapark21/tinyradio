@@ -1,0 +1,234 @@
+(footprint "EC11E1534441"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "-40℃~+85℃ 10mA 5V Incremental Straight Two-phase output 插件 Rotary Encoders ROHS")
+	(tags "ALPSALPINE C2687287 EC11E1534441 SW-TH_EC11E1534441")
+	(property "Reference" "REF**"
+		(at 0 -9.050064 0)
+		(layer "F.SilkS")
+		(uuid "56a27113-fed9-46be-b11c-ca0bc14f5714")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 0 9.050064 0)
+		(layer "F.Fab")
+		(uuid "8aaff4a8-3852-485f-9066-7c1c4263b2e3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2102221810_ALPSALPINE-EC11E1534441_C2687287.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5b912f26-60eb-46e4-adac-64bbc7c85f71")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "-40℃~+85℃ 10mA 5V Incremental Straight Two-phase output 插件 Rotary Encoders ROHS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "54192e6b-6175-42f0-8ce4-f802b8c83e0a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C2687287"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "349f0c1a-23a9-4f2c-ab6d-34f773bced42")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -5.900127 -6.250064)
+		(end -5.900127 -2.174067)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5c7f31ef-2366-4004-8f17-1ed3c70be982")
+	)
+	(fp_line
+		(start -5.900127 -6.250064)
+		(end 5.899873 -6.250064)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "07e880eb-472d-4008-b428-73d42fb935a5")
+	)
+	(fp_line
+		(start -5.900127 1.67394)
+		(end -5.900127 5.679934)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "73cbda02-1fc1-4a03-9b01-b66537162957")
+	)
+	(fp_line
+		(start -5.900127 5.749962)
+		(end 5.899873 5.749962)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7362d815-8f2b-4773-b2ee-0b8f0bc348ce")
+	)
+	(fp_line
+		(start -2.410135 -2.790069)
+		(end 2.319863 -2.790069)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "db658dbe-6a6b-4adb-8265-97902e38d618")
+	)
+	(fp_line
+		(start 5.899873 -6.250064)
+		(end 5.899873 -2.174067)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "693e7a83-c5fe-4adc-aa14-c215843e84fe")
+	)
+	(fp_line
+		(start 5.899873 1.67394)
+		(end 5.899873 5.749962)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5e7bb76e-0e5f-4070-8b52-134ea13b36a4")
+	)
+	(fp_circle
+		(center -0.000127 -0.250064)
+		(end 3.5 -0.250064)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "8a1ecb84-e535-4ea5-8bde-e0544b3fa419")
+	)
+	(fp_circle
+		(center -0.000127 -0.250064)
+		(end 3.999873 -0.250064)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "9876b2d2-b771-4539-a83a-dd8a0c509218")
+	)
+	(pad "" np_thru_hole circle
+		(at -0.000127 -0.250064)
+		(size 2.100025 2.100025)
+		(drill 2.100025)
+		(layers "*.Cu" "*.Mask")
+		(uuid "6ef88244-92da-4aa8-8683-5eee9e1979eb")
+	)
+	(pad "6" thru_hole oval
+		(at -5.5 -0.250064 180)
+		(size 2.4 3.5)
+		(drill oval 1.6 2.700025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "87fca16d-7ace-4461-94c5-ed8930adad31")
+	)
+	(pad "7" thru_hole oval
+		(at 5.5 -0.250064)
+		(size 2.4 3.5)
+		(drill oval 1.6 2.700025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "316c95a6-b346-40b6-8cb0-d2c52f9f44f1")
+	)
+	(pad "A" thru_hole oval
+		(at -2.5 7.250064)
+		(size 1.6 1.6)
+		(drill 1.100025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6d6833d1-c8bb-4de4-86ba-051aa536a0b4")
+	)
+	(pad "B" thru_hole oval
+		(at 2.5 7.250064)
+		(size 1.6 1.6)
+		(drill 1.100025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1204bad8-7671-44fa-984f-4d13f1a80b24")
+	)
+	(pad "C" thru_hole oval
+		(at -0.000127 7.250064)
+		(size 1.6 1.6)
+		(drill 1.100025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e31ae210-b19a-43a8-85e1-32df373c8a63")
+	)
+	(pad "D" thru_hole oval
+		(at -2.5 -7.250064)
+		(size 1.6 1.6)
+		(drill 1.100025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "eeaa23b6-90f4-4f8b-a321-0d88ef25322c")
+	)
+	(pad "E" thru_hole oval
+		(at 2.5 -7.250064)
+		(size 1.6 1.6)
+		(drill 1.100025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5e2ecddb-ae56-484b-a2c3-9b2c84936732")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/JLCImport.3dshapes/EC11E1534441.wrl"
+		(offset
+			(xyz 0 0 0.49327)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

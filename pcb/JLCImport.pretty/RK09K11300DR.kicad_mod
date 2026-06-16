@@ -1,0 +1,328 @@
+(footprint "RK09K11300DR"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "10kΩ 20V 50mW ±20% 插件 Potentiometers, Variable Resistors ROHS")
+	(tags "ALPSALPINE C3020615 RES-TH_RK09K113004U RK09K11300DR")
+	(property "Reference" "REF**"
+		(at 0 -10.000178 0)
+		(layer "F.SilkS")
+		(uuid "a3d6487c-899e-44cb-9c90-bdfc3361efef")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 0 5.35 0)
+		(layer "F.Fab")
+		(uuid "1eca389d-28f7-441c-af8a-11594a70147c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2208260930_ALPSALPINE-RK09K11300DR_C3020615.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a4015130-dc2c-434d-a0ba-97a37a7aa624")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "10kΩ 20V 50mW ±20% 插件 Potentiometers, Variable Resistors ROHS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f6144e45-8133-49f8-bae3-715432508ab0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C3020615"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "875281fb-6616-4c02-a6b2-6943c4457e0c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -4.9 -9.000178)
+		(end 4.9 -9.000152)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8b162127-fbf3-4633-8438-03e99d557ecf")
+	)
+	(fp_line
+		(start -4.9 -9.000152)
+		(end -4.9 -5.378385)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a8761069-c3a1-4ff3-9378-05f02ff88e1f")
+	)
+	(fp_line
+		(start -4.9 -1.621895)
+		(end -4.9 2.999873)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f9c2e91b-4f35-4258-9ef9-ac88d557172c")
+	)
+	(fp_line
+		(start -4.9 2.999873)
+		(end -3.498247 2.999873)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9f97aab2-eba7-4d25-b4c5-d05278479dfe")
+	)
+	(fp_line
+		(start -1.581763 2.999873)
+		(end -0.958242 2.999873)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "50046c93-bb59-4d7c-b59b-3bae32416752")
+	)
+	(fp_line
+		(start -0.254001 -6.47714)
+		(end -0.254001 -4.953137)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1bd69a78-9ef8-45cd-89d4-d948be666f7c")
+	)
+	(fp_line
+		(start -0.254001 -4.953137)
+		(end 0.254001 -4.953137)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "40935b24-faab-4dc4-911a-772c24761a4c")
+	)
+	(fp_line
+		(start 0.254001 -4.953137)
+		(end 0.254001 -6.47714)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "58af40fa-6f60-491d-ac84-5ffc2dc78ede")
+	)
+	(fp_line
+		(start 0.958242 2.999873)
+		(end 1.581763 2.999873)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "79f43c61-3281-488d-9e24-6ac8fbbc11b4")
+	)
+	(fp_line
+		(start 4.9 -9.000152)
+		(end 4.9 -5.378385)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5dbef86b-75f5-4b15-8c5f-646263d640d0")
+	)
+	(fp_line
+		(start 4.9 -1.621895)
+		(end 4.9 2.999873)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8b6a1112-1de0-4817-bbea-b3c1fde8c5b5")
+	)
+	(fp_line
+		(start 4.9 2.999873)
+		(end 3.498247 2.999873)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0bd18fdc-46af-4aac-b458-b89bdcf92bda")
+	)
+	(fp_circle
+		(center -4.289992 3.710008)
+		(end -4.025806 3.710008)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "df1d4d84-5b0e-482a-a35d-fb46d2a3e938")
+	)
+	(fp_circle
+		(center -3.302007 -7.493142)
+		(end -2.583693 -7.493142)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "cfb4bb2d-0b30-426d-865f-ce6d70a10bd2")
+	)
+	(fp_circle
+		(center -3.302007 1.396876)
+		(end -2.583693 1.396876)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "300c82ef-9384-4d29-ae27-6b9f2c507df7")
+	)
+	(fp_circle
+		(center 0 -3.5)
+		(end 3 -3.5)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "2ee8f3e6-e65f-4868-9e8d-eb30ed4f8d85")
+	)
+	(fp_circle
+		(center 3.302007 -7.493142)
+		(end 4.02032 -7.493142)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "83afbbb7-8902-4355-8948-1401c992ecd8")
+	)
+	(fp_circle
+		(center 3.302007 1.396876)
+		(end 4.02032 1.396876)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "4a4dbcf8-60e2-463c-a98f-859157a8c01a")
+	)
+	(fp_circle
+		(center -3.410008 3.329997)
+		(end -3.159995 3.329997)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "2545c830-5548-4ded-9a48-424b919c8a80")
+	)
+	(pad "1" thru_hole oval
+		(at -2.499873 3.5)
+		(size 1.7 1.7)
+		(drill 1.100025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4cd586d3-2783-4b51-a705-6f5fe39087db")
+	)
+	(pad "2" thru_hole oval
+		(at 0 3.5)
+		(size 1.7 1.7)
+		(drill 1.100025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2928033f-4024-48d5-b65c-b37e1d1c2b17")
+	)
+	(pad "3" thru_hole oval
+		(at 2.500127 3.5)
+		(size 1.7 1.7)
+		(drill 1.100025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "30d74ecf-3edf-47f3-bf88-26655f23faef")
+	)
+	(pad "4" thru_hole oval
+		(at 5 -3.5)
+		(size 3 3.3)
+		(drill oval 2 2.300025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4633e90c-d5d8-415c-8cc0-a5932a98f0c5")
+	)
+	(pad "5" thru_hole oval
+		(at -5 -3.5)
+		(size 3 3.3)
+		(drill oval 2 2.300025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3914d6cf-87f6-492d-92db-28253b7b9bba")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/JLCImport.3dshapes/RK09K11300DR.wrl"
+		(offset
+			(xyz 0 2.400127 -12.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "/Users/juha/Downloads/RK09D1130C3W/RK09D1130-F20.STEP"
+		(hide yes)
+		(offset
+			(xyz 0 3.5 4.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

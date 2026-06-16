@@ -1,0 +1,284 @@
+(footprint "PJ-320B"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "200mA 3.5mm Headphone Jack 30V SMD Audio Connectors ROHS")
+	(tags "AUDIO-SMD_PJ-320B BOOMELE(Boom Precision Elec) C18594 PJ-320B贴片")
+	(property "Reference" "REF**"
+		(at 0 -9.600076 0)
+		(layer "F.SilkS")
+		(uuid "21cc5599-3d99-4dad-af28-a463c3672839")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 0 6.400686 0)
+		(layer "F.Fab")
+		(uuid "2a62e5d2-e0e9-43f6-afe8-7af24f2a2ee3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1811132022_BOOMELE-Boom-Precision-Elec-PJ-320B_C18594.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "52b1a34d-377f-408e-bfd5-af7b17d36c2b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "200mA 3.5mm Headphone Jack 30V SMD Audio Connectors ROHS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d0425e14-7f54-4b3e-9306-d2fe78ba55e7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C18594"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e4d3abd-7182-4831-9a8d-6c50dc64fcd6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3 -5.600076)
+		(end -3 -4.481204)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "20665b2a-18ff-49b6-9d37-f3933fb5544b")
+	)
+	(fp_line
+		(start -3 -5.600076)
+		(end 3 -5.600076)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a9ade19f-54af-4a66-ac93-5d570c697ae0")
+	)
+	(fp_line
+		(start -3 -2.518923)
+		(end -3 2.518796)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1990e91e-0a70-42b1-9938-f5fa80d0d3f9")
+	)
+	(fp_line
+		(start -3 4.481077)
+		(end -3 5.399924)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "baeb30e2-38d2-4bcc-b04d-c12b8a1fe630")
+	)
+	(fp_line
+		(start -2.5 -8.600076)
+		(end 2.5 -8.600076)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c2444666-fbda-4fa9-a0bd-f6d93ad0681e")
+	)
+	(fp_line
+		(start -2.5 -5.600076)
+		(end -2.5 -8.600076)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "acc5f804-5fc9-4c16-969d-7b9c18da12b2")
+	)
+	(fp_line
+		(start 2.301245 3.399162)
+		(end 2.301245 4.600584)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e8c612ea-13d7-4dd6-a539-1a24d9182ac2")
+	)
+	(fp_line
+		(start 2.301245 4.600584)
+		(end 2.999746 4.600584)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bfd5adc1-125a-454a-8dbd-07f0e59397b5")
+	)
+	(fp_line
+		(start 2.5 -5.600076)
+		(end 2.5 -8.600076)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "82acfde2-58fa-45fe-9dab-dead2708762d")
+	)
+	(fp_line
+		(start 2.999746 3.399162)
+		(end 2.301245 3.399162)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c0b73786-44d3-4692-a4dd-69d8890eb1f3")
+	)
+	(fp_line
+		(start 2.999746 4.600584)
+		(end 2.999746 5.400686)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e59f350b-faa9-48f3-b133-eff783fb8cb0")
+	)
+	(fp_line
+		(start 3 -5.600076)
+		(end 3 -2.481204)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "71585726-67bc-4593-af19-b483c989469e")
+	)
+	(fp_line
+		(start 3 -0.518923)
+		(end 3 3.399162)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6bf888ee-c6a3-4426-b905-45899f124ebe")
+	)
+	(fp_line
+		(start 3 5.399898)
+		(end -3 5.399924)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7c894158-a593-468f-b54a-6816bb6f69dc")
+	)
+	(fp_circle
+		(center -5.260097 -3.440056)
+		(end -5.060198 -3.440056)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "7cee3ac9-b1f1-412d-b773-68a065a37aa5")
+	)
+	(fp_circle
+		(center 0 -3.600076)
+		(end 0.175006 -3.600076)
+		(stroke
+			(width 0.350013)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "59c9cb5a-10b7-4cfe-a448-a65c5bba59c8")
+	)
+	(fp_circle
+		(center 0 2.399924)
+		(end 0.175006 2.399924)
+		(stroke
+			(width 0.350013)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "fc661312-4580-451a-a79d-203116cd89f9")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 -3.600076)
+		(size 1.300025 1.300025)
+		(drill 1.300025)
+		(layers "*.Cu" "*.Mask")
+		(uuid "1fdfed05-1e23-49a5-82c5-460f1489db37")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 2.399924)
+		(size 1.300025 1.300025)
+		(drill 1.300025)
+		(layers "*.Cu" "*.Mask")
+		(uuid "586fe868-89ad-47ca-b2b8-3952d50da41c")
+	)
+	(pad "R" smd rect
+		(at 4 -1.5)
+		(size 3 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7a10630e-de17-436c-9264-92af1d4bd184")
+	)
+	(pad "S" smd rect
+		(at -4 -3.5)
+		(size 3 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7a467319-526e-4a17-911e-f9f970829adb")
+	)
+	(pad "T" smd rect
+		(at -4 3.5)
+		(size 3 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "eff3b64a-550b-40e6-a070-131e83e284bc")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/JLCImport.3dshapes/PJ-320B.wrl"
+		(offset
+			(xyz 0 0.1 0.1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
