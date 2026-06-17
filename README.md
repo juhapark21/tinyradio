@@ -33,4 +33,4 @@ The development process is logged in detail [here](https://stasis.hackclub.com/d
 I want to try making multiple at a time (larger scale) so that I have enough to go around. Also, harder projects (tiny calculator...). 
 
 ## Zine 
-<img width="1410" height="2000" alt="zine - tinyradio" src="https://github.com/user-attachments/assets/c1c15774-6b45-4dd4-8106-a0ed82b07014" />
+<img width="1410" height="2000" alt="zine - tinyradio" src="https://github.com/user-attachments/assets/0c0f3ae0-44f1-4139-912c-3d4a09d3bcc5" />
