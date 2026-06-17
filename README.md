@@ -10,10 +10,12 @@ A keychain that is also a working fm radio:D
 - RDA5807M - cheap and widely available FM radio chip
 - Wired earphones act as an antenna for the radio
 - Runs on a CR3032 coin cell battery
-- 58 x 42.4mm (can be made even smaller if you don't want mounting holes) 
+- 58 x 42.4mm (can be made even smaller if you don't want mounting holes)
+- bom can be found as bom.csv 
 
 ## Usage 
 - Provide a battery and wired earphones.
+- To flash the firmware, follow [these instructions](https://wiki.seeedstudio.com/XIAO-RP2040-with-Arduino/). 
 - Press the left knob down to turn on/off.
 - Turn the left knob to adjust volume.
 - Turn the right knob to adjust frequency.
